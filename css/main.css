@@ -59,7 +59,7 @@ header .container .logo {
   font-weight: 900;
   letter-spacing: -2px;
   height: 70px;
-  animation: color-logo 4s infinite;
+  animation: color-logo 4s alternate infinite;
 }
 @keyframes color-logo {
   0% {
