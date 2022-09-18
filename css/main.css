@@ -58,7 +58,7 @@ header .container .logo {
   font-size: 30px;
   font-weight: 900;
   letter-spacing: -2px;
-  height: 70px;
+  height: 60px;
   animation: color-logo 4s linear alternate infinite;
 }
 @keyframes color-logo {
@@ -95,7 +95,7 @@ header .container ul li a {
   align-items: center;
   color: var(--secondary-color);
   font-weight: 500;
-  height: 70px;
+  height: 60px;
   transition: 0.4s;
   padding: 0 20px;
   position: relative;
@@ -145,14 +145,14 @@ header .container ul li a:hover::after {
     position: absolute;
     left: 0;
     top: 100%;
-    background-color: rgb(0 0 0 / 0.4);
+    background-color: rgb(255 255 255 / 0.8);
     width: 100%;
     z-index: 5;
   }
 
   header .container ul li a {
     padding: 15px 30px;
-    color: white;
+    color: var(--main-color);
     font-weight: bold;
   }
 }
@@ -163,7 +163,7 @@ header .container ul li a:hover::after {
 .landing {
   background-image: url(../images/landing.jpg);
   background-size: cover;
-  height: calc(100vh - 71px);
+  height: calc(100vh - 60px);
   position: relative;
 }
 
