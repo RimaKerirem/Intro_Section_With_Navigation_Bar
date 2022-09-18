@@ -1,9 +1,9 @@
-# Header_Landing
+# Intro_Section_With_Navigation_Bar
 
-### Built with
+### Built with :
 
-  #### Languages : HTML and CSS
+#####	Languages : HTML and CSS
 
-  #### Frameworks : Font Awesome 6, Google Fonts
+#####	Frameworks : Font Awesome 6, Google Fonts
 
-### Visit Site : https://rimakerirem.github.io/Header_Landing/
+### Demo : https://rimakerirem.github.io/Intro_Section_With_Navigation_Bar/
